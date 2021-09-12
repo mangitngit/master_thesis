@@ -1,0 +1,9 @@
+keras>=2.6.0
+numpy>=1.19.5
+matplotlib>=3.4.3
+librosa>=0.8.1
+scikit-learn>=0.24.2
+SoundFile>=0.10.3.post1
+tqdm>=4.62.1
+scipy>=1.7.1
+museval>=0.4.0
