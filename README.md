@@ -7,7 +7,7 @@ This's a U-Net based tool to extract vocal from songs with Keras framework.
 ### Install the packages
 
 ```
-cd unet-separator
+cd master_thesis
 pip install -r requirements.txt
 ```
 ### GPU calculation
